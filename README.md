@@ -8,7 +8,7 @@
 |PS_Babo|||||■|
 
 신신리그 단체전(후기)
-||　 DarkPoly 　|BlackBullet|EA_SportsPig|　 　Xmcn　 　|　　PS_Babo　　|
+||　 DarkPoly 　|BlackBullet|EA_SportsPig|　　Xmcn　　|　 PS_Babo 　|
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |DarkPoly|■|||||
 |BlackBullet||■||||
