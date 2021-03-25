@@ -1,6 +1,6 @@
-신신리그 단체전
-||DarkPoly|BlackBullet|EA_SportsPig|Xmcn|PS_Babo|
-|-|-|-|-|-|-|
+신신리그 단체전(1차)
+||  DarkPoly  |BlackBullet|EA_SportsPig|     Xmcn     |    PS_Babo    |
+|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |DarkPoly|■|||||
 |BlackBullet||■||||
 |EA_SportsPig|||■|||
