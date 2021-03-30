@@ -1,19 +1,7 @@
-신신리그 단체전(전기)
-||　 DarkPoly 　|BlackBullet|EA_SportsPig|　　Xmcn　　|　 PS_Babo 　|
-|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|DarkPoly|■|||||
-|BlackBullet||■||||
-|EA_SportsPig|||■|||
-|Xmcn||||■||
-|PS_Babo|||||■|
+신신리그 개인전
 
-신신리그 단체전(후기)
-||　 DarkPoly 　|BlackBullet|EA_SportsPig|　　Xmcn　　|　 PS_Babo 　|
-|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|DarkPoly|■|||||
-|BlackBullet||■||||
-|EA_SportsPig|||■|||
-|Xmcn||||■||
-|PS_Babo|||||■|
+3/31
 
-![Batch](https://user-images.githubusercontent.com/24608378/112422636-87437580-8d74-11eb-87c8-3cb1172618ee.png)
+|경기순서|경기ID|팀1|점수|VS|점수|팀2|일정|
+|-|-|-|-|-|-|-|-|
+|1|32|정연국||VS||윤원열|3/30|
